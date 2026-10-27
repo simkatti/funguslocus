@@ -1,0 +1,10 @@
+.venv/
+*.py[cod]
+.env
+.vscode/
+node_modules/
+datasets/
+database/
+script.js
+style.css
+index.html
