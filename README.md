@@ -3,7 +3,7 @@
 This is data science project for helsinki universitys masters course. The application aims to predict different mushroom growth based on different features using logistic regression. 
 
 ### Installation
-1. pull the repo ```git clone git@github.com:FungusLocus/findmushroom.git ```
+1. pull the repo ```git clone git@github.com:simkatti/funguslocus.git ```
 2. go to the project root ```cd findmushroom```
 3. create virtual enviroment ```python -m venv .venv``` (linux)
 4. activate venv ```source .venv/bin/activate```
